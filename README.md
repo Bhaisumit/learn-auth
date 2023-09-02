@@ -1,2 +1,3 @@
-# learn-auth
-I will focus on learning backend.
+# todo with react
+Yeah, i will surely done this project in 2days.
+
